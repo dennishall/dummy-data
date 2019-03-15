@@ -1,0 +1,3855 @@
+{
+  "type": "standard-features-by-model-code",
+  "modelCodes": [
+    {
+      "modelCode": "M1CA4G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M1CA4G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA4G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA4X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA4G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA4X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA7G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CA7X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CAE6",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CAEX",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M3CA46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M3CA76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M3CAE6",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCA46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCA4X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCA76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCA7X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCAE6",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCAEX",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M4CA46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M4CA46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M4CA76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M4CAE6",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CV4G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CV46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CV4X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CV7G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CV76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2CV7X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M3CV46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M3CV76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCV46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCV4X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCV76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCV7X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M4CV46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M4CV76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M1PV4G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2PV4G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2PV46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2PV4X",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2PV7G",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M2PV76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCC46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "MXCC76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M4CC46",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    },
+    {
+      "modelCode": "M4CC76",
+      "equipment": [
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        },
+        {
+          "code": "F49",
+          "title": "Electrically heated windshield"
+        },
+        {
+          "code": "L71",
+          "title": "Light/motion sensor in rear compartment"
+        }
+      ]
+    }
+  ]
+}
